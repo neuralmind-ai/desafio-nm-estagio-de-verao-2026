@@ -57,7 +57,7 @@ Isso subirá todos os serviços integrados. Caso necessário, ajuste as variáve
 
 ## Contato
 
-Para dúvidas, sugestões ou reportar problemas, entre em contato com o avaliador: [roberto@neuromind.ai](mailto:roberto@neuromind.ai).
+Para dúvidas, sugestões ou reportar problemas, entre em contato com o avaliador: [roberto@neuralmind.ai](mailto:roberto@neuralmind.ai).
 
 ---
 
