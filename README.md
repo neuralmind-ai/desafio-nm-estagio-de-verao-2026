@@ -57,7 +57,7 @@ Isso subirá todos os serviços integrados. Caso necessário, ajuste as variáve
 
 ## Contato
 
-Para dúvidas, sugestões ou reportar problemas, entre em contato com [roberto@neuralmind.ai](mailto:roberto@neuralmind.ai) ou [luis.emidio@neuralmind.ai].
+Para dúvidas, sugestões ou para reportar problemas, entre no nosso Slack [Desafio Estágio Verão 2026 da NeuralMind](https://join.slack.com/t/desafioneural-yqq2158/shared_invite/zt-3hfwk0rit-M~iWNDAh8HQnVqkvuCKbkw) ou entre em contato com [roberto@neuralmind.ai](mailto:roberto@neuralmind.ai) ou [luis.emidio@neuralmind.ai](mailto:luis.emidio@neuralmind.ai).
 
 ---
 
